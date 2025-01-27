@@ -33,7 +33,7 @@ const Navbar = () => {
           <li className='py-1'>CONTACT</li>
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
         </NavLink>
-        <a href="http://localhost:5174/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'inherit' }}>
+        <a href="https://prescripto-admin-7.onrender.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'inherit' }}>
           <li className='py-1 border rounded text-xs bg-primary text-white' style={{ listStyle: 'none' }}>ADMIN PANEL</li>
         </a>
 
