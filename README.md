@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/394de797-7f11-4048-a60d-29774d87c9c6)
+
 # 🩺 Prescripto – Doctor Appointment Booking System
 
 **Prescripto** is a comprehensive web application designed to streamline the process of booking doctor appointments. It offers distinct interfaces for Admins, Doctors, and Patients, ensuring a seamless experience for all users. With secure authentication, real-time notifications, and integrated payment processing, Prescripto enhances the efficiency and reliability of healthcare scheduling.
